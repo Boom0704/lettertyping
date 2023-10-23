@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\user\source\repos\test_note\test_note\main.cpp(100,9): warning C4311: '형식 캐스트': 'HINSTANCE'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\user\source\repos\test_note\test_note\main.cpp(100,9): warning C4302: '형식 캐스트': 'HINSTANCE'에서 'int'(으)로 잘립니다.
+C:\Users\user\source\repos\test_note\test_note\main.cpp(101,91): warning C4311: '형식 캐스트': 'HINSTANCE'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\user\source\repos\test_note\test_note\main.cpp(101,91): warning C4302: '형식 캐스트': 'HINSTANCE'에서 'int'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  0 of 596 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  test_note.vcxproj -> C:\Users\user\source\repos\test_note\x64\Release\test_note.exe
